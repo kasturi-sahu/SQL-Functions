@@ -1,4 +1,4 @@
-# SQL-Functions
+# SQL
 JDA Programme at Npower
 
 ## SQL Activity (Book Table)
