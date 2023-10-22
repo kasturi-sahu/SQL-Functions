@@ -1,8 +1,8 @@
 # SQL-Functions
 JDA Programme at Npower
+SQL Activity (Book Table)
 
-1. SQL Activity (Book Table)
-2. SQL Functions
+# SQL Functions
 # Aggregate Functions
 Query A1: Enter a function that calculates the total cost of all animal rescues in the PETRESCUE table.
 
