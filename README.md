@@ -2,7 +2,7 @@
 JDA Programme at Npower
 
 ## SQL Activity (Book Table)
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # SQL Functions
 ## Aggregate Functions
 Query A1: Enter a function that calculates the total cost of all animal rescues in the PETRESCUE table.
@@ -44,6 +44,7 @@ Query C5: Enter a function that displays the length of time the animals have bee
 3. Execute a failing query (i.e. one which gives an error) to retrieve all employees records with EMP_ID, SALARY and maximum salary as MAX_SALARY in every row.
 4. Execute a Column Expression that retrieves all employees records with EMP_ID, SALARY and maximum salary as MAX_SALARY in every row.
 5. Execute a Table Expression for the EMPLOYEES table that excludes columns with sensitive employee data (i.e. does not include columns: SSN, B_DATE, SEX, ADDRESS, SALARY).
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Working with Multiple Tables
 How does an Implicit version of CROSS JOIN (also known as Cartesian Join) statement syntax look?
@@ -89,7 +90,7 @@ select JOB_TITLE, MIN_SALARY,MAX_SALARY,JOB_IDENT from JOBS where JOB_IDENT IN (
 
 select JOB_TITLE, MIN_SALARY,MAX_SALARY,JOB_IDENT from JOBS  where JOB_I
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Create & Access SQLite database using Python
 
 ## Objectives
@@ -102,3 +103,17 @@ After completing this lab you will be able to:
 *   Query data from the table
 *   Retrieve the result set into a pandas dataframe
 *   Close the database connection
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Connect to Db2 database on Cloud using Python
+
+## Objectives
+
+After completing this lab you will be able to:
+
+* Import the ibm_db Python library
+* Enter the database connection credentials
+* Create the database connection
+* Close the database connection
+
