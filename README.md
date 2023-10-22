@@ -1,9 +1,10 @@
 # SQL-Functions
 JDA Programme at Npower
-SQL Activity (Book Table)
+
+## SQL Activity (Book Table)
 
 # SQL Functions
-# Aggregate Functions
+## Aggregate Functions
 Query A1: Enter a function that calculates the total cost of all animal rescues in the PETRESCUE table.
 
 Query A2: Enter a function that displays the total cost of all animal rescues in the PETRESCUE table in a column called SUM_OF_COST.
@@ -14,7 +15,7 @@ Query A4: Enter a function that displays the average cost of animals rescued.
 
 Query A5: Enter a function that displays the average cost of rescuing a dog.
 
-# Scalar and String Functions
+## Scalar and String Functions
 Query B1: Enter a function that displays the rounded cost of each rescue.
 
 Query B2: Enter a function that displays the length of each animal name.
@@ -25,7 +26,7 @@ Query B4: Enter a function that displays the animal name in each rescue in upper
 
 Query B5: Enter a query that displays all the columns from the PETRESCUE table, where the animal(s) rescued are cats. Use cat in lower case in the query.
 
-# Date and Time Functions
+## Date and Time Functions
 Query C1: Enter a function that displays the day of the month when cats have been rescued.
 
 Query C2: Enter a function that displays the number of rescues on the 5th month.
